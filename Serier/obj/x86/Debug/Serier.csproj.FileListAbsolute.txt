@@ -1,0 +1,9 @@
+C:\Users\Calle\AppData\Local\Temporary Projects\Serier\bin\Debug\Serier.exe
+C:\Users\Calle\AppData\Local\Temporary Projects\Serier\bin\Debug\Serier.pdb
+C:\Users\Calle\AppData\Local\Temporary Projects\Serier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Calle\AppData\Local\Temporary Projects\Serier\obj\x86\Debug\Serier.Form1.resources
+C:\Users\Calle\AppData\Local\Temporary Projects\Serier\obj\x86\Debug\Serier.Properties.Resources.resources
+C:\Users\Calle\AppData\Local\Temporary Projects\Serier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Calle\AppData\Local\Temporary Projects\Serier\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Calle\AppData\Local\Temporary Projects\Serier\obj\x86\Debug\Serier.exe
+C:\Users\Calle\AppData\Local\Temporary Projects\Serier\obj\x86\Debug\Serier.pdb
